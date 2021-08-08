@@ -1,7 +1,12 @@
 # EFI Mi Notebook Air 12.5 M3 6Y30
 **EFI (Extensible Firmware Interface) system partition for Mi Notebook Air 12.5 M3 6Y30**
+- Intel Core m3-6Y30 2 x 0.9 - 2.2 GHz (Skylake)
+- Intel(R) Dual Band Wireless-AC 8260
+- Intel Bluetooth 4.1
+- Audio Realtek ALC233 @ Intel Broadwell PCH-LP
+- Synaptics TouchPad
 
-## MacOS supoorted:
+## MacOS Supported
 - BigSur 11.4 (Tested)
 
 ## Work Properly
