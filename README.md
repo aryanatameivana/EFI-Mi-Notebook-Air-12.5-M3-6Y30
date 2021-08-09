@@ -1,7 +1,6 @@
 # EFI Mi Notebook Air 12.5 M3 6Y30
 [![macOS](https://img.shields.io/badge/macOS-11.4-blue)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.2-green)](https://github.com/acidanthera/OpenCorePkg)
-[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 </br>
 **EFI (Extensible Firmware Interface) system partition for Mi Notebook Air 12.5 M3 6Y30**
 
